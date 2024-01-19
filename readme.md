@@ -37,7 +37,7 @@ A horizontal rule is a blank new line and then 3 dashes
 
 <img src="./images/image-icon.jpg" alt="image icon" width="50">
 
-### emojis
+## emojis
 Use colon on each side of the emoji name :grinning:
 
 [Github Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
