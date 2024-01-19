@@ -2,10 +2,14 @@
 ## H2
 ### H3 etc
 
-Use 1 asterick for *italics*
-Use 2 astericks for **bold**
-Use 3 astericks for ***bold italic***
-Use triple back ticks for ```code```
+* Use 1 asterick for *italics*
+* Use 2 astericks for **bold**
+* Use 3 astericks for ***bold italic***
+* Use triple back ticks for ```code```
+* Use asterick, dash, or plus for unordered lists
+    1. Use numbers with a dot for ordered lists
+    1. And indent for indented new list
+    1. Like this one here
 
 [My link text](www.mylink.org "My title text.")
 
