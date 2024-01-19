@@ -6,7 +6,7 @@ A horizontal rule is a blank new line and then 3 dashes
 
 ---
 
-### formatting
+## formatting
 * Use 1 asterick on each side for *italics*
 * Use 2 astericks on each side for **bold**
 * Use 3 astericks on each side for ***bold italic***
@@ -17,7 +17,7 @@ A horizontal rule is a blank new line and then 3 dashes
     1. And indent for indented new list
     1. Like this one here
 
-### blockquotes
+## blockquotes
 > "Let's add a quote here by using a >"
 
 ### blockquotes with paragraphs
@@ -27,6 +27,8 @@ A horizontal rule is a blank new line and then 3 dashes
 >
 > with the > on the empty line
 
+
+## links and images
 [My link text](www.mylink.org "My title text.")
 
 <!-- This is the normal way to do images but if the size sucks then just use an image tag with alt and width/height
