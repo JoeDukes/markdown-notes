@@ -30,7 +30,7 @@ A horizontal rule is a blank new line and then 3 dashes
 [My link text](www.mylink.org "My title text.")
 
 <!-- This is the normal way to do images but if the size sucks then just use an image tag with alt and width/height
-![Alt text](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F000%2F420%2F681%2Foriginal%2Fpicture-icon-vector-illustration.jpg&f=1&nofb=1&ipt=6c52b2600dd1512994aee00f5cfaf4fe156363d47c68b44e2505af28cb885272&ipo=images "Title text")
+![Alt text](./images/image-icon.jpg "Title text")
 -->
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F000%2F420%2F681%2Foriginal%2Fpicture-icon-vector-illustration.jpg&f=1&nofb=1&ipt=6c52b2600dd1512994aee00f5cfaf4fe156363d47c68b44e2505af28cb885272&ipo=images" alt="image icon" width="50">
+<img src="./images/image-icon.jpg" alt="image icon" width="50">
