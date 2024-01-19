@@ -7,13 +7,13 @@ A horizontal rule is a blank new line and then 3 dashes
 ---
 
 ### formatting
-* Use 1 asterick for *italics*
-* Use 2 astericks for **bold**
-* Use 3 astericks for ***bold italic***
-* Use 2 tildas for ~~strikethrough~~
-* Use triple back ticks for ```code```
-* Use asterick, dash, or plus for unordered lists
-    1. Use numbers with a dot for ordered lists
+* Use 1 asterick on each side for *italics*
+* Use 2 astericks on each side for **bold**
+* Use 3 astericks on each side for ***bold italic***
+* Use 2 tildas on each side for ~~strikethrough~~
+* Use triple back ticks on each side for ```code```
+* Use asterick, dash, or plus at the start of a line followed by a space for unordered lists
+    1. Use numbers with a dot at the start of a line and then a space for ordered lists
     1. And indent for indented new list
     1. Like this one here
 
