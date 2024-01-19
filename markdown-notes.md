@@ -2,6 +2,10 @@
 ## H2
 ### H3 etc
 
+A horizontal rule is a blank new line and then 3 dashes
+
+---
+
 * Use 1 asterick for *italics*
 * Use 2 astericks for **bold**
 * Use 3 astericks for ***bold italic***
