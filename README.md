@@ -131,7 +131,7 @@ SVG Icons for badges or other stuff
 [Simple Icons](https://simpleicons.org/)
 
 * Download the SVG file and save in your images folder
-* Open the file in an editor, like VSCode, and ```fill="#FFFFFF"``` or whatever color you want the icon to be
-* Add the icon using the img tag, not the markdown, and include a width in the img tag
+* Open the file in an editor, like VSCode, and add ```fill="#FFFFFF"``` or whatever color you want the icon to be inside the svg tag
+* Add the icon using the img tag, not the markdown, and include a width in the img tag ```<img src="./images/github.svg" alt="GitHub Icon" width="50">```
 
 <img src="./images/github.svg" alt="GitHub Icon" width="50">
