@@ -92,6 +92,7 @@ Use a dash and then square brackets with a space for undone and with an x for ch
 | Left | Center | Right |
 | :--- | :----: | ----: |
 | 1    | 2      | 3     |
+| 4    | 5      | 6     |
 
 ## Alerts
 > [!NOTE]
