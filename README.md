@@ -139,12 +139,16 @@ SVG Icons for badges or other stuff
 
 ## Collapsed Sections
 * Use the ```<details>``` tag followed by a ```<summary``` tag to include a collapsed section
+* Put a blank line between details, summary, and your text
 * Use ```<details open>``` to have it expanded by default
 
 <details>
+
 <summary>Collapsed Section</summary>
+
 #### Heading
 With some text and stuff
+
 </details>
 
 ### You can nest collapsed sections within collapsed sections
