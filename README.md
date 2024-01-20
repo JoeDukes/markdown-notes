@@ -52,7 +52,7 @@ Just add your link into the normal text https://LikeHere.org
 
 ### README Section/Heading Links
 You can hover over a header in a README file to see the link icon and copy the link to that location in the README
-[Like this README Section](https://github.com/JoeDukes/markdown-notes/tree/main#README-Section/Heading-Links)
+[Like this README Section](https://github.com/JoeDukes/markdown-notes/tree/main#readme-sectionheading-links)
 
 ## Emails
 Emails are just the email inside a tag aka inside <>, so <github@dukesmail.com>
