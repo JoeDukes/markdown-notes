@@ -53,3 +53,8 @@ Use colon on each side of the emoji name :grinning:
 
 [Github Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
+## Checklists
+Use a dash and then square brackets with a space for undone and with an x for checked
+- [ ] First item
+- [x] Done item
+- [ ] Another item
