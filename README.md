@@ -32,7 +32,7 @@ A horizontal rule is a blank new line and then 3 dashes
 
 
 ## links and images
-[My link text](www.mylink.org "My title text.")
+[My link text](https://www.mylink.org "My title text.")
 
 <!-- This is the normal way to do images but if the size sucks then just use an image tag with alt and width/height
 ![Alt text](./images/image-icon.jpg "Title text")
@@ -41,7 +41,7 @@ A horizontal rule is a blank new line and then 3 dashes
 <img src="./images/image-icon.jpg" alt="image icon" width="50">
 
 ### An image as a link
-[![Alt Text](./images/image-icon.jpg "Image title text")](www.mylink.org "Link title text")
+[![Alt Text](./images/image-icon-small.jpg "Image title text")](https://www.mylink.org "Link title text")
 
 ## Emails
 Emails are just the email inside a tag aka inside <>, so <github@dukesmail.com>
