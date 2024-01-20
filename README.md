@@ -2,10 +2,11 @@
 These are notes I took while studying from [Scrimba's Learn Markdown Course](https://scrimba.com/learn/markdownblog) and [MarkdownGuide.org](https://www.markdownguide.org/basic-syntax/) as a part of my effort to improve [my GitHub](https://github.com/JoeDukes/) README.md files.
 
 <!-- # H1 //commented out bc it screws up the file structure for the table of contents that GitHub automagically creates when there are 2 or more headings-->
-## Headers (H2)
-Headers begin with 1 - 7? octothorpes
+## Headings (H2)
+Headings begin with 1 - 7? octothorpes
 ### H3 etc
 
+## Horizontal Rule
 A horizontal rule is a blank new line and then 3 dashes
 
 ---
