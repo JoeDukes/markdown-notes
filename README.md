@@ -4,6 +4,7 @@ These are notes I took while studying from
 * [MarkdownGuide.org](https://www.markdownguide.org/basic-syntax/)
 * [Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 * [GitHub Basic Formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+* [Blog post on quality README files](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
 
 
 
@@ -119,3 +120,7 @@ Use a dash and then square brackets with a space for undone and with an x for ch
 > Advises about risks or negative outcomes of certain actions.
 ```
 
+## Badges
+I'm not sure what this is about but looks cool
+
+![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
