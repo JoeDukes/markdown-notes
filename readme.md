@@ -41,3 +41,4 @@ A horizontal rule is a blank new line and then 3 dashes
 Use colon on each side of the emoji name :grinning:
 
 [Github Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+
