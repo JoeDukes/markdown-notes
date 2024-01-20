@@ -26,7 +26,7 @@ A horizontal rule is a blank new line and then 3 dashes
 * Use 3 asterisks on each side for ***bold italic***
 * Use 2 tildas on each side for ~~strikethrough~~
 * Use triple back ticks on each side for ```code```
-* You can highlight the syntax in a code block by identifying the language after the first 3 ticks
+* You can highlight the syntax in a code block by identifying the language after the first 3 ticks ``````csharp...``
     ```csharp
         public static void main(string[] args){
             Console.Writeline("Hello World!);
