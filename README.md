@@ -50,6 +50,10 @@ Put the entire image tag inside the link text square brackets
 ### Automatic links
 Just add your link into the normal text https://LikeHere.org
 
+### README Section/Heading Links
+You can hover over a header in a README file to see the link icon and copy the link to that location in the README
+[Like this README Section](https://github.com/JoeDukes/markdown-notes/tree/main#README-Section/Heading-Links)
+
 ## Emails
 Emails are just the email inside a tag aka inside <>, so <github@dukesmail.com>
 
@@ -68,6 +72,7 @@ Use a dash and then square brackets with a space for undone and with an x for ch
 * Top row will be your table headers
 * Use | to demark your cells and then just add rows with appropriate spacing
 * Second row will have dashes for the width of the cell and use the colon on the side you want to align the cell
+* Be sure to 
 
 | Left | Center | Right |
 | :--- | :----: | ----: |
