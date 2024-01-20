@@ -40,8 +40,11 @@ A horizontal rule is a blank new line and then 3 dashes
 
 <img src="./images/image-icon.jpg" alt="image icon" width="50">
 
+### An image as a link
+[![Alt Text](./images/image-icon.jpg "Image title text")](www.mylink.org "Link title text")
+
 ## Emails
-Emails are just the email inside a tag aka inside <>, so <GitHub@dukesmail.com>
+Emails are just the email inside a tag aka inside <>, so <github@dukesmail.com>
 
 ## emojis
 Use colon on each side of the emoji name :grinning:
