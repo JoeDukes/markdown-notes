@@ -88,9 +88,13 @@ Use a dash and then square brackets with a space for undone and with an x for ch
 
 ## Alerts
 > [!NOTE]
+
 > [!TIP]
+
 > [!IMPORTANT]
+
 > [!WARNING]
+
 > [!CAUTION]
 
 ```
