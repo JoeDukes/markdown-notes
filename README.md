@@ -1,3 +1,6 @@
+# Markdown Notes
+These are notes I took while studying from [Scrimba's Learn Markdown Course](https://scrimba.com/learn/markdownblog) and [MarkdownGuide.org](https://www.markdownguide.org/basic-syntax/) as a part of my effort to improve [my GitHub](https://github.com/JoeDukes/) README.md files.
+
 # H1
 ## H2
 ### H3 etc
