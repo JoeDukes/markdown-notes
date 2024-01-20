@@ -60,3 +60,11 @@ Use a dash and then square brackets with a space for undone and with an x for ch
 - [ ] First item
 - [x] Done item
 - [ ] Another item
+
+## Tables
+* Use | to demark your cells and then just add rows with appropriate spacing
+* Use the colon on the side you want to align the cell
+
+| Left | Center | Right |
+| :--- | :----: | ----: |
+| 1    | 2      | 3     |
