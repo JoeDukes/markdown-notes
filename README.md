@@ -187,3 +187,14 @@ With some text and stuff
 </details>
 </details>
 </details>
+
+## Creating Diagrams
+You can create diagrams like the one below (and cooler stuff too) by researching how on [GitHub's Create Diagram Documentation](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams)
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
