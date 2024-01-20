@@ -120,7 +120,7 @@ Use a dash and then square brackets with a space for undone and with an x for ch
 > Advises about risks or negative outcomes of certain actions.
 ```
 
-## Badges
+## Badges and Icons
 I'm not sure what this is about but looks cool. They can be obtained/built at [shields.io](https://shields.io/)
 
 ![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
