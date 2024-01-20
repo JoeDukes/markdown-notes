@@ -47,6 +47,9 @@ Put the entire image tag inside the link text square brackets
 
 [![Alt Text](./images/image-icon-small.jpg "Image title text")](https://www.mylink.org "Link title text")
 
+### Automatic links
+Just add your link into the normal text https://LikeHere.org
+
 ## Emails
 Emails are just the email inside a tag aka inside <>, so <github@dukesmail.com>
 
@@ -62,9 +65,11 @@ Use a dash and then square brackets with a space for undone and with an x for ch
 - [ ] Another item
 
 ## Tables
+* Top row will be your table headers
 * Use | to demark your cells and then just add rows with appropriate spacing
-* Use the colon on the side you want to align the cell
+* Second row will have dashes for the width of the cell and use the colon on the side you want to align the cell
 
 | Left | Center | Right |
 | :--- | :----: | ----: |
 | 1    | 2      | 3     |
+
