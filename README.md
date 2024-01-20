@@ -26,6 +26,12 @@ A horizontal rule is a blank new line and then 3 dashes
 * Use 3 astericks on each side for ***bold italic***
 * Use 2 tildas on each side for ~~strikethrough~~
 * Use triple back ticks on each side for ```code```
+* You can highlight the syntax in a code block by identifying the language after the first 3 ticks
+    ```csharp
+        public static void main(args[]){
+            writeln("Hello World!);
+        }
+    ```
 * Use asterick, dash, or plus at the start of a line followed by a space for unordered lists
     1. Use numbers with a dot at the start of a line and then a space for ordered lists
     1. And indent for indented new list
