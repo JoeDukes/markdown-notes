@@ -130,4 +130,4 @@ SVG Icons for badges or other stuff
 
 [Simple Icons](https://simpleicons.org/)
 
-![GitHub](./images/github.svg)
+<img src="./images/github.svg" alt="GitHub Icon" width="50">
