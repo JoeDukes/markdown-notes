@@ -1,5 +1,13 @@
 # Markdown Notes
-These are notes I took while studying from [Scrimba's Learn Markdown Course](https://scrimba.com/learn/markdownblog) and [MarkdownGuide.org](https://www.markdownguide.org/basic-syntax/) as a part of my effort to improve [my GitHub](https://github.com/JoeDukes/) README.md files.
+These are notes I took while studying from
+* [Scrimba's Learn Markdown Course](https://scrimba.com/learn/markdownblog)
+* [MarkdownGuide.org](https://www.markdownguide.org/basic-syntax/)
+* [Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+* [GitHub Basic Formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+
+
+as a part of my effort to improve [my GitHub](https://github.com/JoeDukes/) README.md files.
 
 <!-- # H1 //commented out bc it screws up the file structure for the table of contents that GitHub automagically creates when there are 2 or more headings-->
 ## Headings (H2)
@@ -77,4 +85,28 @@ Use a dash and then square brackets with a space for undone and with an x for ch
 | Left | Center | Right |
 | :--- | :----: | ----: |
 | 1    | 2      | 3     |
+
+## Alerts
+> [!NOTE]
+> [!TIP]
+> [!IMPORTANT]
+> [!WARNING]
+> [!CAUTION]
+
+```
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
+```
 
