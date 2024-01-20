@@ -20,10 +20,10 @@ A horizontal rule is a blank new line and then 3 dashes
 
 ## Formatting
 * Include comments in your code by using html comments ```<!-- --->```
-* Use 1 asterisk on each side for *italics*
-* Use 2 asterisks on each side for **bold**
-* Use 3 asterisks on each side for ***bold italic***
-* Use 2 tildas on each side for ~~strikethrough~~
+* Use 1 asterisk on each side for *italics* ```*italics*```
+* Use 2 asterisks on each side for **bold** ```**bold**```
+* Use 3 asterisks on each side for ***bold italic*** ```***bold italic***```
+* Use 2 tildas on each side for ~~strikethrough~~ ```~~strikethrough~~```
 * Use triple back ticks on each side for ```code```
 * You can highlight the syntax in a code block by identifying the language after the first 3 ticks ```` ```csharp ```` and then starting a new line
     ```csharp
