@@ -32,8 +32,8 @@ A horizontal rule is a blank new line and then 3 dashes
         }
     ```
     A list of the [commonly supported languages](https://markdown.land/markdown-code-block)
-* Use asterisk, dash, or plus at the start of a line followed by a space for unordered lists
-    1. Use numbers with a dot at the start of a line and then a space for ordered lists
+* Use asterisk, dash, or plus at the start of a line followed by a space for unordered lists ``` * or - or + ```
+    1. Use numbers with a dot at the start of a line and then a space for ordered lists ``` 1. ```
     1. And indent for indented new list
     1. Like this one here
 
