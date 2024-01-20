@@ -42,6 +42,7 @@ A horizontal rule is a blank new line and then 3 dashes
 
 ### An image as a link
 Put the entire image tag inside the link text square brackets
+
 [![Alt Text](./images/image-icon-small.jpg "Image title text")](https://www.mylink.org "Link title text")
 
 ## Emails
