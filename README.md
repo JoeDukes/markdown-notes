@@ -1,14 +1,12 @@
 # Markdown Notes
-These are notes I took while studying from
+These are the notes I took while studying markdown in an effort to improve [my GitHub](https://github.com/JoeDukes/) README.md files.
+
+I used the following **resources**:
 * [Scrimba's Learn Markdown Course](https://scrimba.com/learn/markdownblog)
 * [MarkdownGuide.org](https://www.markdownguide.org/basic-syntax/)
 * [Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
-* [GitHub Basic Formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+* [GitHub Basic Formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) and the subsequent section, Advanced Formatting.
 * [Blog post on quality README files](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
-
-
-
-as a part of my effort to improve [my GitHub](https://github.com/JoeDukes/) README.md files.
 
 <!-- # H1 //commented out bc it screws up the file structure for the table of contents that GitHub automagically creates when there are 2 or more headings-->
 ## Headings (H2)
@@ -21,6 +19,7 @@ A horizontal rule is a blank new line and then 3 dashes
 ---
 
 ## Formatting
+* Include comments in your code by using html comments ```<!-- --->```
 * Use 1 asterisk on each side for *italics*
 * Use 2 asterisks on each side for **bold**
 * Use 3 asterisks on each side for ***bold italic***
