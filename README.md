@@ -136,3 +136,43 @@ SVG Icons for badges or other stuff
 * Add the icon using the img tag, not the markdown, and include a width in the img tag ```<img src="./images/github.svg" alt="GitHub Icon" width="50">```
 
 <img src="./images/github.svg" alt="GitHub Icon" width="50">
+
+## Collapsed Sections
+* Use the ```<details>``` tag followed by a ```<summary``` tag to include a collapsed section
+* Use ```<details open>``` to have it expanded by default
+
+<details>
+<summary>Collapsed Section</summary>
+#### Heading
+With some text and stuff
+</details>
+
+### You can nest collapsed sections within collapsed sections
+```
+<details>
+<summary>Section A</summary>
+<details>
+<summary>Section A.B</summary>
+<details>
+<summary>Section A.B.C</summary>
+<details>
+<summary>Section A.B.C.D</summary>
+  Done!
+</details>
+</details>
+</details>
+</details>
+```
+<details>
+<summary>Section A</summary>
+<details>
+<summary>Section A.B</summary>
+<details>
+<summary>Section A.B.C</summary>
+<details>
+<summary>Section A.B.C.D</summary>
+  Done!
+</details>
+</details>
+</details>
+</details>
