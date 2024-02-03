@@ -41,11 +41,11 @@
      inkscape:label="circle"
      style="display:inline">
     <circle
-       style="fill:#d40000;stroke:#ffffff;stroke-width:0.264418"
+       style="fill:#d40000;stroke:#ffffff;stroke-width:0.279843"
        id="path274"
-       cx="75"
-       cy="75"
-       r="74.86779" />
+       cx="79.375"
+       cy="79.375"
+       r="79.235077" />
   </g>
   <g
      inkscape:label="boat"
@@ -53,7 +53,7 @@
      id="layer1"
      style="display:inline">
     <g
-       transform="matrix(0.00736477,0,0,-0.00736477,29.252268,116.35967)"
+       transform="matrix(0.00861665,0,0,-0.00827821,26.361842,125.15419)"
        fill="#000000"
        stroke="none"
        id="g33">
