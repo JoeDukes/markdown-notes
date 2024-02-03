@@ -1,4 +1,4 @@
-Taken off Learn with Leon Discord Server > Resources Channel
+Taken from Learn with Leon Discord Server > Resources Channel
 [Listed by IndifferentGhost — 01/10/2024 9:13 PM](https://discord.com/channels/735923219315425401/737804588266291252/1194826390613278761)
 
 ## LARGE JOB BOARDS
