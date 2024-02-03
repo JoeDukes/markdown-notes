@@ -1,4 +1,4 @@
-# <img src="./images/sailboat.svg" alt="GitHub Icon" width="30"> Markdown Notes
+# <img src="./images/sailboat.svg" alt="Sailboat Icon" width="30"> Markdown Notes
 These are the notes I took while studying markdown in an effort to improve [my GitHub](https://github.com/JoeDukes/) README.md files.
 
 I used the following **resources**:
