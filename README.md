@@ -8,6 +8,7 @@ I used the following **resources**:
 * [GitHub Basic Formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) and the subsequent section, Advanced Formatting.
 * [Blog post on quality README files](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
 * [Markdown Guide](https://www.markdownguide.org/getting-started/)
+* [GitHub Pages](https://www.markdownguide.org/tools/github-pages/)
 
 <!-- # H1 //commented out bc it screws up the file structure for the table of contents that GitHub automagically creates when there are 2 or more headings-->
 ## Headings (H2)
