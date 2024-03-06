@@ -79,6 +79,11 @@ Use colon on each side of the emoji name :grinning:
 
 [Github Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
+> [!Caution]
+> Using colon name colon doesn't work in Github Pages
+> Paste directly from a cheat sheet instead
+> [Emoji Cheat Sheet](https://gist.github.com/roachhd/1f029bd4b50b8a524f3c)
+
 ## Checklists
 Use a dash and then square brackets with a space for undone and with an x for checked
 - [ ] First item
